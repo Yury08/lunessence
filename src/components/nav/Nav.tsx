@@ -65,7 +65,7 @@ export default function Nav() {
   };
 
   const handleTelegramLink = () => {
-    window.open('https://t.me/lunessence_parfums_bot', '_blank');
+    window.open('https://t.me/lunessence_parfumes', '_blank');
   };
 
   return (

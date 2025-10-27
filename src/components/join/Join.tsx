@@ -64,11 +64,11 @@ export default function Join() {
   }, []);
 
   const handleTelegramChannel = () => {
-    window.open('https://t.me/lunessence_channel', '_blank');
+    window.open('https://t.me/lunessence_parfumes', '_blank');
   };
 
   const handleTelegramStore = () => {
-    window.open('https://t.me/lunessence_store', '_blank');
+    window.open('https://t.me/lunessence_parfums_bot/lunessence_parfums', '_blank');
   };
 
   return (

@@ -1,0 +1,20 @@
+{
+  "name": "Lunessence Parfumes",
+  "short_name": "Lunessence",
+  "description": "Твоя коллекция премиальных ароматов в одном приложении",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1f36",
+  "theme_color": "#d4af37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "screenshots": []
+}

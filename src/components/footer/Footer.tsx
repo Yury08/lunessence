@@ -1,6 +1,6 @@
 'use client';
 
-import { Instagram, Mail, MessageCircle, Send } from 'lucide-react';
+import { MessageCircle, Send } from 'lucide-react';
 import styles from './Footer.module.css';
 
 export default function Footer() {
@@ -55,7 +55,7 @@ export default function Footer() {
             <h4 className={styles.sectionTitle}>Социальные сети</h4>
             <div className={styles.socialLinks}>
               <a
-                href="https://t.me/Yury_Kravtsov"
+                href="https://t.me/lunessence_parfumes"
                 className={styles.socialLink}
                 target="_blank"
                 rel="noopener noreferrer"
